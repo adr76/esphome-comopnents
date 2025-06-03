@@ -1,0 +1,2 @@
+# esphome-comopnents
+esphome_external_comopnents
